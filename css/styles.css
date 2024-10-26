@@ -72,7 +72,7 @@ label {
 button {
   font-family: inherit;
   cursor: pointer;
-  background-color: #4e75ff;
+  background-color: #ddec0a;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.04em;
@@ -89,13 +89,13 @@ button {
 }
 
 button:hover {
-  background-color: #6c8cff;
+  background-color: #050c22;
 }
 
 .back {
   text-align: center;
   cursor: pointer;
-  background-color: #6082ff;
+  background-color: #7480ad;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
@@ -111,7 +111,7 @@ button:hover {
 }
 
 .back:hover {
-  background-color: #425fc6;
+  background-color: #4062db;
 }
 
 input,
